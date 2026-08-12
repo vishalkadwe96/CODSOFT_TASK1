@@ -186,5 +186,5 @@ Post on LinkedIn with `#codsoft #internship #machinelearning`
 ---
 
 <p align="center">
-  <b>Built with ❤️ by Vishal Kadwe | CodSoft ML Internship 2026</b>
+  <b>Built with by Vishal Kadwe | CodSoft ML Internship 2026</b>
 </p>
